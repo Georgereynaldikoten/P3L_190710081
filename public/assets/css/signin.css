@@ -1,0 +1,27 @@
+html,
+body {
+  height: 90%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  background-color: #f4efbd;
+}
+
+.form-signin {
+  width: 50%;
+  max-width: 400px;
+  padding: 1px;
+  margin: auto;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .radio {
+  font-weight: 400;
+}
